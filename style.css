@@ -1,0 +1,50 @@
+*{margin: 0;padding: 0;text-decoration: none;list-style-type: none;}
+.inbox01{
+    width: 430px;
+    height: 932px;
+    margin: 0 auto;
+    position: relative;
+    background-image: url(img/02.png);
+}
+.txt01{text-align: center;
+background-color:white;
+width: 392px;
+height: 324px;
+padding: 20px;
+color: #4B3E3D;}
+
+.botton01{
+    width: 276px;
+    height: 45px;
+    position: absolute;
+    margin: 0 auto;
+left: 4%; ;
+top: 815px;}
+
+/<div class="block05">  
+        <div class="inbox05">
+                <div class="txt10"> 
+                1961 
+                </div>
+                    <div class="txt10-1"> 
+                        디터 람스 Dieter Rams <br>
+                        불세출의 산업 디자이너 디터 람스는 독일 전자회사 브라운에서 61년 <br>
+                        부터 수석 디자이너로 일하며 미니멀한 디 자인의 정수를 선보였다. <br>
+                        '백설공주의 관'으로 불리는 복합음향기기 SK4도 그의 작품이다.
+                    </div>
+                    <img src=images/9.jpg class="so_07" alt="" style="width: 400px; height: 400px;">
+
+                    
+            <div class="txt011"> 
+             1983 
+            </div>
+            <div class="txt011-1">
+                스티브 잡스 Steve Jobs<br>
+                소니 스타일을 추구했던 잡스는 83년 애스펀 리조트에서 헤르베르트 <br> 바이에르의 디자인을 경험한 뒤 바우하우스 스타일로의 대전환을 천명 <br>
+                한다.
+            </div>
+
+            <img src=images/10.jpg class="so_08" alt="" style="width: 400px; height: 400px;">
+
+        </div>
+        </div>
